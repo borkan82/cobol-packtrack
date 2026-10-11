@@ -1,0 +1,40 @@
+ TAIPANSTUDIO - PACKTRACK                SLA PO KURIRSKIM SLUZBAMA                                                   STRANA    1
+ PROGRAM: PKTRPT                         STANJE NA DAN 09.05.2020
+
+ ISPORUKA U ODNOSU NA OBECANI ROK (RADNI DANI)
+ ----------------------------------------------------------------------------------------------------------------------------------
+ KURIRSKA SLUZBA         UKUPNO ISPORUCENO NA VRIJEME      KASNO    VRACENO     U TOKU % NA VRIJ. PROSJ.DANA
+ ----------------------------------------------------------------------------------------------------------------------------------
+ BRZ BRZA POSTA               5          2          1          1          0          3      50.0%        3.5
+ CIT CITY KURIR               5          3          2          1          0          2      66.7%        2.0
+ EUP EUROPAKET                5          2          2          0          1          2     100.0%        4.0
+ ----------------------------------------------------------------------------------------------------------------------------------
+     UKUPNO                  15          7          5          2          1          7      71.4%        3.0
+ ----------------------------------------------------------------------------------------------------------------------------------
+
+
+ POSILJKE PO TRENUTNOM STATUSU
+ ----------------------------------------------------------------------------------------------------------------------------------
+ RG  REGISTROVANA                 1
+ PU  PREUZETA OD POSILJAOCA       0
+ TR  U TRANZITU                   2
+ HB  U SORTIRNOM CENTRU           0
+ OD  NA DOSTAVI                   2
+ DL  ISPORUCENA                   7
+ FA  NEUSPJELA DOSTAVA            1
+ RT  VRACENA POSILJAOCU           1
+ EX  OSTECENA / IZUZETAK          1
+ ---------------------------------------------------------------------------------------------------------------------------------- TAIPANSTUDIO - PACKTRACK                IZUZECI - POSILJKE ZA INTERVENCIJU                                          STRANA    2
+ PROGRAM: PKTRPT                         STANJE NA DAN 09.05.2020
+
+ ----------------------------------------------------------------------------------------------------------------------------------
+ POSILJKA       KUR NARUDZBA   PRIMALAC               ST ZADNJI DOGADJAJ  ROK        RAZLOG
+ ----------------------------------------------------------------------------------------------------------------------------------
+ BP200000000103 BRZ WEB-100260 DRAGAN SIMIC           TR 05.05.2020 22:00 07.05.2020 BEZ SKENIRANJA 4 D; KASNI 2 D;
+ BP200000000104 BRZ WEB-100271 ANA MARKOVIC           FA 09.05.2020 12:00 08.05.2020 3 POKUSAJA - VRATITI; KASNI 1 D;
+ CK200000000304 CIT WEB-300131 IVANA PERIC            RG 07.05.2020 00:00 08.05.2020 KASNI 1 D;
+ EP200000000204 EUP WEB-200041 PETAR JOVIC            EX 08.05.2020 09:15 12.05.2020 OSTECENA/IZUZETAK;
+ ----------------------------------------------------------------------------------------------------------------------------------
+ POSILJAKA ZA INTERVENCIJU: 4
+
+ *** KRAJ IZVJESTAJA ***
